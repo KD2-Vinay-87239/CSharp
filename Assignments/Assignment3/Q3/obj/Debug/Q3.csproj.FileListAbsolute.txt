@@ -1,0 +1,7 @@
+F:\C#.NET\CSharp\Assignments\Q3\bin\Debug\Q3.exe.config
+F:\C#.NET\CSharp\Assignments\Q3\bin\Debug\Q3.exe
+F:\C#.NET\CSharp\Assignments\Q3\bin\Debug\Q3.pdb
+F:\C#.NET\CSharp\Assignments\Q3\obj\Debug\Q3.csproj.AssemblyReference.cache
+F:\C#.NET\CSharp\Assignments\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+F:\C#.NET\CSharp\Assignments\Q3\obj\Debug\Q3.exe
+F:\C#.NET\CSharp\Assignments\Q3\obj\Debug\Q3.pdb

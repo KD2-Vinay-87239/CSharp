@@ -1,0 +1,7 @@
+F:\C#.NET\CSharp\Assignments\Q6\bin\Debug\Q6.exe.config
+F:\C#.NET\CSharp\Assignments\Q6\bin\Debug\Q6.exe
+F:\C#.NET\CSharp\Assignments\Q6\bin\Debug\Q6.pdb
+F:\C#.NET\CSharp\Assignments\Q6\obj\Debug\Q6.csproj.AssemblyReference.cache
+F:\C#.NET\CSharp\Assignments\Q6\obj\Debug\Q6.csproj.CoreCompileInputs.cache
+F:\C#.NET\CSharp\Assignments\Q6\obj\Debug\Q6.exe
+F:\C#.NET\CSharp\Assignments\Q6\obj\Debug\Q6.pdb
